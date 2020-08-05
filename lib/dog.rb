@@ -6,6 +6,6 @@ class Dog
   
   def name 
     this_dogs_name 
-    puts "Lassie"
+   
   end
 end
