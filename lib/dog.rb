@@ -10,5 +10,5 @@ class Dog
    lassie.name = "Lassie"
    
   end
-  lassie.name
+  
 end
